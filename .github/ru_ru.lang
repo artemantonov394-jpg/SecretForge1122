@@ -1,0 +1,8 @@
+item.secretforge.frontier_fragment.name=Осколок Рубежа
+item.secretforge.ancient_core.name=Древнее Ядро
+item.secretforge.echo_dust.name=Пыль Эха
+item.secretforge.frontier_blade.name=Клинок Рубежа
+item.secretforge.frontier_pickaxe.name=Кирка Рубежа
+tile.secretforge.raw_crystal.name=Необработанный кристалл
+tile.secretforge.frontier_altar.name=Алтарь Рубежа
+itemGroup.secretforge=Secret Frontier

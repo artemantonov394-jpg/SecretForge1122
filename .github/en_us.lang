@@ -1,0 +1,8 @@
+item.secretforge.frontier_fragment.name=Frontier Fragment
+item.secretforge.ancient_core.name=Ancient Core
+item.secretforge.echo_dust.name=Echo Dust
+item.secretforge.frontier_blade.name=Frontier Blade
+item.secretforge.frontier_pickaxe.name=Frontier Pickaxe
+tile.secretforge.raw_crystal.name=Raw Crystal
+tile.secretforge.frontier_altar.name=Frontier Altar
+itemGroup.secretforge=Secret Frontier

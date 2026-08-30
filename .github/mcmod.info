@@ -1,0 +1,16 @@
+[
+ {
+  "modid": "secretforge",
+  "name": "Secret Frontier",
+  "description": "A mysterious expansion for Minecraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SecretForge"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+ }
+]

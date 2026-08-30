@@ -1,0 +1,4 @@
+{
+  "parent": "block/cube_all",
+  "textures": {"all": "secretforge:blocks/raw_crystal"}
+}
