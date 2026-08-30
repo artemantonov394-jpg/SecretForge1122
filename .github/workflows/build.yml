@@ -23,11 +23,10 @@ jobs:
           gradle-version: '4.10.3'
 
       - name: Build mod
-        working-directory: SecretForge1122
         run: gradle build --no-daemon
 
       - name: Upload JAR
         uses: actions/upload-artifact@v4
         with:
           name: SecretFrontier
-          path: SecretForge1122/build/libs/*.jar
+          path: build/libs/*.jar
